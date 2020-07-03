@@ -1,0 +1,15 @@
+﻿  Source1.cpp
+C:\Users\vavys\source\repos\Project8\Project8\Source1.cpp(9,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\vavys\source\repos\Project8\Project8\Source1.cpp(186,18): warning C4552: '-': result of expression not used
+C:\Users\vavys\source\repos\Project8\Project8\Source1.cpp(365,18): warning C4552: '+': result of expression not used
+C:\Users\vavys\source\repos\Project8\Project8\Source1.cpp(418,17): warning C4552: '+': result of expression not used
+C:\Users\vavys\source\repos\Project8\Project8\Source1.cpp(535,18): warning C4552: '+': result of expression not used
+C:\Users\vavys\source\repos\Project8\Project8\Source1.cpp(588,17): warning C4552: '+': result of expression not used
+C:\Users\vavys\source\repos\Project8\Project8\Source1.cpp(700,18): warning C4552: '-': result of expression not used
+C:\Users\vavys\source\repos\Project8\Project8\Source1.cpp(934,15): warning C4552: '-': result of expression not used
+C:\Users\vavys\source\repos\Project8\Project8\Source1.cpp(1085,15): warning C4552: '+': result of expression not used
+C:\Users\vavys\source\repos\Project8\Project8\Source1.cpp(1138,14): warning C4552: '+': result of expression not used
+C:\Users\vavys\source\repos\Project8\Project8\Source1.cpp(1232,15): warning C4552: '+': result of expression not used
+C:\Users\vavys\source\repos\Project8\Project8\Source1.cpp(1285,14): warning C4552: '+': result of expression not used
+C:\Users\vavys\source\repos\Project8\Project8\Source1.cpp(1374,15): warning C4552: '-': result of expression not used
+  Project8.vcxproj -> C:\Users\vavys\source\repos\Project8\x64\Debug\Project8.exe
